@@ -26,7 +26,8 @@ This project involves identifying, testing, and documenting common web applicati
 
 ### 📸 Screenshots
 
-![Login page](images/juice-shop-login.png)
+![image](https://github.com/user-attachments/assets/d985a71d-adee-4030-976f-8afec278b30e)
+
 > *Simulated Login Page used to test SQL injection and authentication flaws*
 
 ![Security scan](images/xss-scan.png)
@@ -45,7 +46,8 @@ This project involves identifying, testing, and documenting common web applicati
 
 ### 📚 What’s Next
 
-I'll be adding more projects soon:
+I'll be adding more projects soon:![Uploading image.png…]()
+
 - 🔐 Penetration testing scripts and reports
 - ⚙️ Automation with Python & Bash
 - 💡 OpenGL 3D graphics and parallel programming projects
