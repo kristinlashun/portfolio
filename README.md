@@ -30,7 +30,10 @@ This project involves identifying, testing, and documenting common web applicati
 
 > *Simulated Login Page used to test SQL injection and authentication flaws*
 
-![Security scan](images/xss-scan.png)
+![image](https://github.com/user-attachments/assets/c7f10d1a-a883-4c0c-8bfe-d01a260e28e6)
+
+![image](https://github.com/user-attachments/assets/44233735-b7b9-482d-b5a2-6934a80b8f4b)
+
 > *Cross-site scripting vulnerability proof-of-concept via product review*
 
 ---
