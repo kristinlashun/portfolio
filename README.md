@@ -47,6 +47,10 @@ This project involves identifying, testing, and documenting common web applicati
 
 ---
 
+### 📄 Blog Post 
+
+https://blogs.oregonstate.edu/kristinsblog/2025/05/09/using-postman-to-explore-and-exploit-juice-shop-vulnerabilities/ 
+
 ### 📚 What’s Next
 
 I'll be adding more projects soon:![Uploading image.png…]()
